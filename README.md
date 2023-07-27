@@ -2,7 +2,7 @@
 
 ### Perfil
 
-¡Hola! Tengo 27 años, de los cuales pasé 8 años dedicándome al rubro de ventas, donde adquirí mucha experiencia y habilidades. En el transcurso, me interesé por la programación y decidí empezar de manera autodidacta, para luego completar mi formación mediante un bootcamp de programación en Plataforma 5 enfocado en tecnologías de JavaScript.
+Soy un persona que estuve 8 años dedicándome al rubro de ventas, donde adquirí mucha experiencia y habilidades. En el transcurso, me interesé por la programación y decidí empezar de manera autodidacta, para luego completar mi formación mediante un bootcamp de programación en Plataforma 5 enfocado en tecnologías de JavaScript.
 
 ### Educación
 - Bootcamp Intensivo Plataforma 5
